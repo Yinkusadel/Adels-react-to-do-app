@@ -20,7 +20,7 @@
 - Clone the project
 
 ```bash
-git clone git@github.com:Yinkusadel/React-to-do-app.git
+git clone git@github.com:Yinkusadel/Adels-to-do-app.git
 
 ```
 
